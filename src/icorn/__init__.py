@@ -7,6 +7,9 @@ import tempfile
 from PIL import Image
 
 
+__version__ = '0.1dev0'
+
+
 name_size = {  # width, hight
     'icon_512x512@2x.png': (1024, 1024),
     'icon_512x512.png': (512, 512),
